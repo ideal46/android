@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">intentTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="browserStr">Browser String</string>
+    <string name="showOther">Show Other</string>
+    <string name="button">Button</string>
+    <string name="description">Image</string>
+
+</resources>
